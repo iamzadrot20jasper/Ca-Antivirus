@@ -216,4 +216,4 @@ CA AntiVirus is available as a complete free version, which includes all feature
 Don't compromise your security! Download CA AntiVirus today for a safe and secure computing experience on Windows!
 
 ---
-**Last updated:** 2026-09-17 20:05:28 UTC
+**Last updated:** 2026-09-17 23:27:17 UTC
